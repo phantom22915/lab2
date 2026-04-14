@@ -15,7 +15,7 @@ footer {
     padding-top: 2px;
     padding-bottom: 2px;
     padding-left:  25px;
-    background: #0003b3;
+    background: #7072ff;
     color: rgb(231, 231, 231);
 }
 a.foo:hover {
@@ -23,6 +23,6 @@ a.foo:hover {
   color: rgb(36, 0, 54);
 }
 a.foo {
-  text-decoration-color: white;
-  color: white;
+  text-decoration-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
 }
